@@ -4,6 +4,9 @@
 
 # Hier komt je code...
 
-my_list = ...
+zin = "Tinus gaat op zijn tandem naar de hottentottententoonstelling"
+letter = "t"
+aantal = zin.count(letter)
 
-print()
+
+print("De letter 'T' komt", aantal, "x voor in my_list" )
