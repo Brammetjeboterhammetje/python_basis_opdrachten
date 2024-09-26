@@ -12,6 +12,7 @@ Maak een variabele a en een variabele b.
 
 > y = 4x<sup>3</sup> - 2x<sup>2</sup> - 1
 
+
 Stel de volgende waarden voor x in om je code te testen
 Tip: Denk aan de volgorde waarin python omgaat met berwerkingen. 
 Gebruik de haakjes (parentheses) om de formule aan te passen zodat de uitkomsten kloppen 
