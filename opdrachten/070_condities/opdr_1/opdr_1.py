@@ -6,7 +6,14 @@
 
 # Hier start de for-loop....
 
-my_list = []
+nummers = []
+
+# Loop die nummers vult met 1 tot 10
+for x in range(1,11):
+    nummers.append(x)
+
+resultaat = [loop for loop in nummers if loop > 4]
+print(resultaat)
 
 #for loop
 #if statement
