@@ -13,5 +13,5 @@ print(personen)
 personen.remove("Marie")
 print(personen)
 ###
-personen.insert(2, "George")
+personen.insert(1, "George")
 print(personen)
