@@ -1,0 +1,4 @@
+Wat is je voornaam?: a
+Wat is je achternaam?: a
+Wat neem je mee aan drank: a
+Wat neem je mee om te eten?: a
